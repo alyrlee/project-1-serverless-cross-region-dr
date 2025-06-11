@@ -1,0 +1,14 @@
+{
+  "name": "myLambdaFunction",
+  "version": "1.0.0",
+  "description": "A simple AWS Lambda function",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1000.0" 
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ashley Lee-Vigneau",
+  "license": "MIT"
+}
